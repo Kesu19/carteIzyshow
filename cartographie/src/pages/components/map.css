@@ -1,0 +1,99 @@
+.popup-container {
+  position: absolute;
+  background-color: white;
+  padding: 10px;
+  border-radius: 4px;
+  max-width: 300px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mapboxgl-popup-anchor-top .popup-container {
+  transform: translateY(-100%);
+}
+
+.mapboxgl-popup-anchor-bottom .popup-container {
+  transform: translateY(0);
+}
+
+.mapboxgl-popup-anchor-left .popup-container {
+  transform: translateX(-100%);
+}
+
+.mapboxgl-popup-anchor-right .popup-container {
+  transform: translateX(0);
+}
+
+.bouton-reserver-container {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.bouton-reserver {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.popup-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.popup-container > img {
+  align-self: center;
+  width: 128px;
+}
+
+.bouton-reserver {
+  padding: 13px;
+  border-radius: 5px;
+  font-size: medium;
+  color: white;
+  background-color: #1bbe7c;
+  text-decoration: none;
+  outline: none;
+}
+
+.bouton-reserver-container {
+  align-self: center;
+  margin-top: 25px;
+}
+
+.side-menu-map {
+  flex: 0 0 25%;
+  border-right: 1px solid rgb(204, 204, 204);
+  padding: 1rem;
+  z-index: 1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-y: auto;
+  position: relative;
+  height: 100vh;
+}
+
+.side-menu-map ul {
+  list-style: none;
+  padding: 0px;
+}
+
+.side-menu-map ul > li {
+  padding: 8px 0;
+  border-top: 1px solid;
+  cursor: pointer;
+}
+
+.list-item > div:first-child {
+  padding-right: 1em;
+}
+
+.list-item > div:last-child {
+  display: flex;
+  align-items: center;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}

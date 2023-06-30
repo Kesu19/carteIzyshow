@@ -1,0 +1,24 @@
+.popup-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.popup-container > img {
+    align-self: center;
+    width: 128px;
+}
+
+.bouton-reserver {
+    padding: 13px;
+    border-radius: 5px;
+    font-size: medium;
+    color: white;
+    background-color: #1bbe7c;
+    text-decoration: none;
+    outline: none;
+}
+
+.bouton-reserver-container {
+    align-self: center;
+    margin-top: 25px;
+}

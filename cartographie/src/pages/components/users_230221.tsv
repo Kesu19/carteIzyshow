@@ -1,0 +1,109 @@
+user_id	first_name	last_name	display_name	username	phone_number	address	email_address	email_address_confirmed	joined_at	status	is_admin	accept_emails_from_admin	language	can_post_listings	has_connected_paypal	has_connected_stripe	page facebook	page instagram	page linkedin	Numéro SIRET	Téléphone
+mOlwA6QY6YwwQO7gQDtT3g	Cyrille	Perrin	The President	the_admin	661872180	30 rue torcy	cyrille@izyshow.com	true	2022-03-25 09:55:16	accepted	true	true	fr	true	false	true				88011832800017	661872180
+zn2c2-vu_w21IV0pYEVSJw	Philippe	LASSERRE		phlasserre		92100	phil-izyshow1@phlasserre.com	true	2022-04-02 15:58:41	accepted	true	true	fr	false	false	false				892 714 924 00016	
+9q_B3hkIl88QLjuo4qFOWw	Jean-Yves	Hourcade		jeanyvesh			jyhourcade@gmail.com	true	2022-04-06 08:05:00	accepted	false	true	fr	false	false	false					
+4TE7sreKdLSY4qBC7bMPfA	Pierre-Yves	Le Strat		pyphere	06 23 82 77 51	10 rue Gustave Rouanet	info@py-sphere.com	true	2022-04-11 09:51:42	accepted	false	true	fr	true	false	true				81414750000015	623827751
+y_lpl0BBjFs_HNQtFDJjuw	Majid	Kabdani		majidk			kabdanim@yahoo.fr	true	2022-04-14 04:31:18	accepted	false	true	fr	false	false	false					
+W7doDE9u99EEXrJww4mpXQ	Hicham	Fassi-Fihri	Les 3 soleils	hichamf		4 Rue Buffon, 84000 Avignon	les3soleilsprogrammation@gmail.com	true	2022-04-14 17:47:03	accepted	false	true	fr	true	false	true				794192435	06 52 27 72 55.
+j9hY9jp4nVIjL6qGgIr9Cw	Diane	Folliet		dianef	06 12 20 95 32	4 Pl. de la Fraternité, 93100 Montreuil	caverneartemiss@gmail.com	true	2022-04-15 06:56:00	accepted	false	true	fr	true	false	true				89747693300014	06 12 20 95 32
+dk1VXuyxvAoAIDLe_ABCrQ	Compte Test	Compte Test	Compte Test	testt			polllux@me.com	true	2022-04-19 08:43:23	accepted	false	true	fr	true	false	false					661872180
+3T8l12Mza0b9pgXn2NRyKw	Christophe	Botti		christopheb			christophebotti@gmail.com	true	2022-04-23 06:10:42	accepted	false	true	fr	false	false	false					615140375
+lz-fXYKEe3sGw9FDcgTCqA	Lorraine	Drevon	Etre@Savoir	lorrained	659213225	2 Rue Santerre, 75012 Paris	lorraine.drevon@etre-et-savoir.org	true	2022-04-27 06:52:53	accepted	false	false	fr	true	false	true				817996465	659213225
+3pPc10-z_10fWOaaHLTQNw	Elsa	Bohée	Les Rendez-Vous d'Ailleurs	elsa	698961557	109 rue des Haies 75020 Paris	contact@lesrdvdailleurs.fr	true	2022-04-29 11:28:19	accepted	false	true	fr	true	false	true				51304942900014	603793815
+Q_mKIVmpLzdPYpyykz1dwg	Eleonore	Maurri		eleonorem			eleonore.maurri@hotmail.fr	true	2022-05-06 10:17:15	accepted	false	true	fr	true	false	false					619607876
+ddCVFKiJ-hWn6O6inb0GWA	Corinne 	Le Gall	itismyloft	corinne	676862730	la Caillère st Hilaire 	vrodier75@gmail.com	true	2022-05-12 10:40:50	accepted	false	true	fr	true	false	true				1234567890	676862730
+hdN_UYe2sQ6pKfVVP3idEw	Cirque	EQUILIBRES		cirquee		4 Avenue de Penhoet – 56860 Séné	jeanmariehuriez@gmail.com	true	2022-05-16 11:04:10	accepted	false	true	fr	true	false	true				799 570 726 00023	627517753
+L-XLNuXI5iIcsSCT4lNVTw	Camille	Solal		camilles			camilledancoisnesolal@yahoo.fr	true	2022-05-19 11:26:35	accepted	false	true	fr	false	false	false					650448331
+8BOP6qd0z2k1n99rAXfUxg	ghislaine	leclercq		ghislainel	01 45 32 14 62	71 Rue Desnouettes 75 015, 75015 Paris	studio.danse@sfr.fr	true	2022-05-24 12:37:11	accepted	false	true	fr	true	false	true				330557414	145321462
+kyIwh5rk6RVSoMmqJpkG4A	Nicole	Selier		nicoles			developpement@leventseleve.com	true	2022-05-27 13:06:04	accepted	false	true	fr	true	false	false					645762525
+95gXE4yqPfKkicfR9rZi8g	Clemence	Michel		clemencem			bureau@theatre-michel.fr	true	2022-06-01 13:08:42	accepted	false	false	fr	true	false	false					142654130
+Ij5q70oWOM1ymTbFn8_PnQ	laure 	definod		laured			lauredefinod@hotmail.com	true	2022-06-04 10:37:14	accepted	false	true	fr	false	false	false					603228522
+KRx-ZFDl--GYzh4PZQbtSw	Franckie	Charras		franckiec			franckie.charras@gmail.com	true	2022-06-15 14:33:14	pending_consent	false	false	fr	false	false	false					
+jqa8OjDJu42Oo726wNHU_g	Baz'art	Troulet		gillest	557747069	11 Loiseau, 33126 Fronsac, France	musetsam@gmail.com	true	2022-06-22 08:16:32	accepted	false	true	fr	true	false	false				80250043900012	557747069
+nueaCC9Qp7ojmwrzRj9hEA	Lucie	Desplechin	20ème Danse	vingtiemedanse		17 rue planchat 75020 Paris	lucie.desplechin@gmail.com	true	2022-07-07 08:59:16	accepted	false	true	fr	true	false	true	https://www.facebook.com/20edanse	https://www.instagram.com/20edanse/		917 806 879	613571619
+2-4WPbpFzM6wfzWbL3ygkg	josette 	point		josettep	773384008	79 RUE DE DUNKERQUE 75009 PARIS	ludovicpoint95@gmail.com	true	2022-07-11 23:53:36	accepted	false	false	fr	true	false	true				83062659400014	773384008
+2-4WPbpFzM6wfzWbL3ygkg	josette 	point		josettep	773384008	79 RUE DE DUNKERQUE 75009 PARIS	julienpliaska@gmail.com	true	2022-07-11 23:53:36	accepted	false	false	fr	true	false	true				83062659400014	773384008
+fMNAZCHkHsmPochgGpNXWg	Eric	Ylrev		ericy			atelier.ae2@hotmail.fr	true	2022-07-16 11:14:48	pending_consent	false	false	fr	false	false	false					
+5HHmIO-H19jBTuoDHb1ThA	cyrille	perrin		cyrillep1			cyrille.perrin@yahoo.com	true	2022-07-25 07:48:43	accepted	false	true	fr	false	false	false					661872180
+SWe_nd7uRJymHMApJeZ8lA	Marine	Boucheny		marineb			bouchenymarine@gmail.com	true	2022-07-25 08:53:55	accepted	false	true	fr	false	false	false					613415786
+xzZitiAQfRZCqP69Q_FKUQ	Farida	Abdallah	Cabaret-Théâtre L'étoile bleue	faridaa	648148340	107bis Boulevard Jeanne d'Arc, 13005 Marseille	commercial@cabaretletoilebleue.fr	true	2022-07-26 13:18:58	accepted	false	false	fr	true	false	true	https://www.facebook.com/CabaretLetoilebleue/	https://www.instagram.com/cabaretletoilebleue/?hl=fr	https://www.linkedin.com/company/cabaretetoilebleue/	832 784 797 00017	648148340
+1uCqEnKizdZky0lP9d2mSQ	Ibou	Le Comique		iboul			ibrkdu78@hotmail.fr	true	2022-08-06 10:34:29	accepted	false	true	fr	false	false	false					751068525
+o-6Bm_JabVniCfd_xErXow	Sabrina	Vargas		sabrinav			sabrina.vargas.kt@gmail.com	true	2022-08-14 20:30:06	accepted	false	true	fr	false	false	false					637402108
+W9rjDt3C1KnOdwk1D1VlPg	Cecile	Hirschauer		cecileh			cecile.h.75@gmail.com	true	2022-08-19 10:06:59	accepted	true	false	fr	false	false	false				1235648971	616976329
+-ruQZCFS7YmZ4MNrpEbWSg	Laura	Piedrabuena		laurap1			laura.piedrabuena@hotmail.fr	true	2022-08-28 09:47:59	accepted	false	true	fr	false	false	false					614651877
+ZeB-mAbZ1Qc3xkTCUAHV_Q	Anaëlle	Buffle		anaelleb			anaelle.spam@gmail.com	true	2022-08-29 13:26:48	accepted	false	false	fr	false	false	false					771217456
+NhTvpgku1GZ3lSxhId-WYA	Sarah	Hamour		sarahh			hamoursarah@gmail.com	true	2022-08-30 02:47:59	accepted	false	false	fr	false	false	false					672076392
+-r6z9feLe8KKbYex_Y4cNg	Guillaume	Dubois		guillaumed			guillaumeduboisfeuilly@gmail.com	true	2022-09-05 09:54:01	accepted	true	true	fr	true	false	true					661642363
+j7MAIfhNedUCB-H04Pi14g	Cédric	Coiquaud		cedricc			cedric_coiquaud@msn.com	true	2022-09-05 12:55:04	accepted	false	true	fr	false	false	false					615701083
+ISrh71MX8y4MpqJzTF9sXw	Marie	Massiot	A TOI THEATRE	cieatoitheatre	06 14 01 10 69	37 Rue de la Grange aux Belles, 75010 Paris	atoitheatre.cie@gmail.com	true	2022-09-09 13:40:24	accepted	false	true	fr	true	false	true				43291697100026	614011069
+OHYIzF9bzl0X8XU_Uqy1MQ	Anaelle	Janvier		anaellej			anaelle.janvier@gmail.com	true	2022-09-13 10:07:40	accepted	false	false	fr	false	false	false					625927293
+8j4G9yrsf0TlCfB38Beg_A	Lucile	Fajon		lucilef			lucile.fajon@gmail.com	true	2022-09-19 08:51:37	accepted	false	false	fr	false	false	false					0t687500737
+w-EXv8wco9YDYMmQGxPTFA	Tristan	Defay		lachambrenoire		4 Rue Saint-Georges 69005 lyon	la.chambre.noire.lyon5@gmail.com	true	2022-09-23 08:24:50	accepted	false	true	fr	true	false	true				540082559	761765165
+dLzquIL6qnY7YT6_XLqCbQ	Association	ARTITELO		associationa			asso.artitelo@gmail.com	true	2022-09-29 10:34:33	accepted	false	false	fr	true	false	false					684153706
+YkjjnpKzv_t8yhcVmrRWXg	Davina	Samba		davinas			davinasamba@gmail.com	true	2022-10-04 12:14:26	accepted	false	false	fr	false	false	false					650959796
+NVsr_rAc7QS2_6CINwVzTA	Pierre	Lievequin		pierrel			plinfos@gmail.com	true	2022-10-05 08:56:27	banned	false	true	fr	false	false	false					665467125
+_nPiIXjEWbdtLGU5di5bag	L'Atelier	de Cédric		latelierd			latelierdecedric@gmail.com	true	2022-10-06 09:01:16	accepted	false	true	fr	false	false	false					614587197
+ShxkJUg4wbioHXubkBqdAA	RICHARD	ARSELIN	BOUFFON THEATRE	richarda	688963781	26/28 RUE DE MEAUX 75019 PARIS	contact@bouffontheatre.com	true	2022-10-06 11:05:22	accepted	false	true	fr	true	false	true				39191642600011	688963781
+uliFRypir6_FhdOJbkRe0g	Elsa	Bohée		elsab			elsabohee@yahoo.fr	true	2022-10-07 09:32:10	accepted	false	false	fr	false	false	false					603793815
+EdX2zah4htaFUAzajqJW5g	Adiddan	Jeyasothy		adiddanj			adiddan.jeyasothy1@gmail.com	true	2022-10-08 11:21:24	accepted	false	true	fr	false	false	false					783080428
+i7A4gNIk_-tDtnXh6CsSvw	Vanessa	Lapierre		vanessal			vlapierreprod@gmail.com	true	2022-10-08 17:32:19	accepted	false	false	fr	false	false	false					662069685
+-MghvRej7QeDZRvQJ0DjlA	Natacha 	Bazin	l'Hôte Bureau	natachab	06 62 66 89 20	2 bis Rue Pierre de Blois, 41000 Blois	natabazin@gmail.com	true	2022-10-12 12:51:44	accepted	false	true	fr	true	false	true	https://www.facebook.com/lhotebureau	https://www.instagram.com/lhotebureau_coworking_blois/	https://www.linkedin.com/in/natacha-bazin/	82797042700015	662668920
+BrEmOsLIlh3AlleWeBVUjg	jerome	grailhe		jeromeg			jerome@studios7emeciel.com	true	2022-10-13 10:07:15	accepted	false	true	fr	true	false	false					146450903
+hGIBHPAA_i-Z2Ufn91YOpQ	patrick	bouvier		patrickb			ppatrickbouvier@gmail.com	true	2022-10-13 14:20:04	accepted	false	true	fr	false	false	false					642731050
+KV4WhtAXIM-nZO7hwdrLTQ	Christophe	Cerutti		christophec			atelierlapetitemuse@gmail.com	true	2022-10-14 09:57:23	accepted	false	false	fr	false	false	false					613338537
+r4Kxk77SY0qYyssVFKZyDw	Frédéric	de Vervillle	Atelier Papillon	fredericd	O675490303	80 rue Philippe de Girard 75018 Paris	fdeverville@gmail.com	true	2022-10-23 20:53:38	accepted	false	true	fr	true	false	true				493 748 081 00012	675490303
+4XSNheAHD1snBOxaSEAZDA	Marion	Gay	Salles Jeunes Pousses	jeunespousses		2 Rue de Joinville, 75019 Paris	marion@montessorijeunespousses.org	true	2022-10-27 09:21:08	accepted	false	false	fr	true	false	true				840058747000	626549206
+RdE2mbM5LXJd9UswmSRlbA	Elisabeth	Rachid		elisabethr			lisarachid18@gmail.com	true	2022-11-03 13:30:15	accepted	false	false	fr	false	false	false					781357219
+mh6OXcRHISCUMnmuMD9-Qw	Laura	Vásquez		laurav			laurajolie@gmail.com	true	2022-11-04 00:07:50	accepted	false	true	fr	false	false	false					658124197
+eXzptqlgn0W-lk6CqUKe0A	J.	T.		jt1			jrth92@gmail.com	true	2022-11-04 14:29:23	accepted	false	true	fr	false	false	false					687231418
+hWGZUdL3Bfk_NNc-_dMdqg	Tom	Desplanque-Danceleux	GLAZART	glazartg		7 / 15 Avenue De La Porte de La VIllette 75019 Paris	tom@glazart.com	true	2022-11-15 13:41:44	accepted	false	false	fr	true	false	true				388 850 893 00024	+33 1 40 36 48 49
+0S98NvCrsdK3rS6S_JD8lA	Killian 	Couppey		killianc			killiancouppey@theatredelobservance.com	true	2022-11-15 15:20:51	accepted	false	false	fr	true	false	false					602724682
+B2d7ugkj63wTCXl6csI4Yw	laetitia	Grimaldi		laetitiag			laetitia.grimaldi27@gmail.com	true	2022-11-27 21:25:40	accepted	false	true	fr	false	false	false					667692994
+KoqqUnjr6mTLry0bSlO_cQ	compagnie	schizo		compagnies			lacompagnieschizo@gmail.com	true	2022-11-28 10:33:05	accepted	false	false	fr	false	false	false					689966765
+4UCdpELioQdULz7aShWaZQ	IDEALS	Théâtre		idealst		46 r Palais Gallien, 33000 BORDEAUX	idealstheatre@gmail.com	true	2022-11-30 10:44:01	accepted	false	true	fr	true	false	true				843062381	672558831
+veyIJN--LH5DAiBf-2pRHA	Isabelle	Pesci		isabellep			isabelle@cerocfrance.com	true	2022-12-01 07:51:51	accepted	false	true	fr	false	false	false					677690478
+x7JtKElZRMnPXLoKYNQMBw	Jean-François	Thieulen	Centre d'expressions musicales	jeanfrancoist	235489525	55 rue du 329ème 76620 Le Havre	thieulenjeanfrancois@gmail.com	true	2022-12-01 18:01:34	accepted	false	true	fr	true	false	true	https://www.facebook.com/CEMLeHavre	https://www.instagram.com/lecemlehavre/		33863450400025	682485596
+x7JtKElZRMnPXLoKYNQMBw	Jean-François	Thieulen	Centre d'expressions musicales	jeanfrancoist	235489525	55 rue du 329ème 76620 Le Havre	jfthieulen@le-cem.com	true	2022-12-01 18:01:34	accepted	false	true	fr	true	false	true	https://www.facebook.com/CEMLeHavre	https://www.instagram.com/lecemlehavre/		33863450400025	682485596
+oMG2CFs7H3yvcFyy42wJRA	sandrine	darrieu	LeRoofTop	sandrined	01.85.12.01.30		contact@lerooftopdeviry.fr	true	2022-12-12 08:17:50	accepted	false	true	fr	true	false	true				50212899400048	01.85.12.01.30
+AJQdyzIT1ThmC4xfYrjP0Q	Patrick	Rimond		patrickr			contact@patrickrimond.com	true	2022-12-28 17:57:31	accepted	false	false	fr	false	false	false					663445753
+nUkX-qg6G7ETK7IcA05TFg	compagnie	théâtre		compagniet			compath.17@gmail.com	true	2023-01-01 21:08:48	accepted	false	false	fr	false	false	false					621418751
+ygEM29KGK3C6dJXhUCwaNQ	katharina	seyferth	Toule	toule		649 route de Las Teoulere, 32440 Castelnau d'Auzan-Labarrere	lasteouleres@gmail.com	true	2023-01-03 09:20:36	accepted	false	false	fr	true	false	true				794849851	680776200
+gKiQMbdIXeK50hZ5WjIUng	MAUD	RISSELIN		maudr			contact@tro-heol.fr	true	2023-01-04 10:31:11	accepted	false	true	fr	false	false	false					699808555
+HeUX0Ct6mKGDYZPioj7B0g	eva	Kovic		evak			leblouie61@gmail.com	true	2023-01-06 08:32:45	accepted	false	false	fr	false	false	false					668378502
+4wKIo5ypGWlwkd6xodv7CQ	Claire	Aimo-Alessi		clairea			caimo@theatre-studio.com	true	2023-01-06 15:00:19	accepted	false	true	fr	false	false	false					635400731
+GH-Yd0MIn-eOAnwaHXYvmA	jean-noel	palerme	moove	moove	189330711	50 rue sebastien mercier 75015	hello@do-sport.fr	true	2023-01-06 15:43:19	accepted	false	true	fr	true	false	true		moove.paris		42076712100049	189330711
+GH-Yd0MIn-eOAnwaHXYvmA	jean-noel	palerme	moove	moove	189330711	50 rue sebastien mercier 75015	moove.resa@gmail.com	true	2023-01-06 15:43:19	accepted	false	false	fr	true	false	true		moove.paris		42076712100049	189330711
+7xWJY3oebChkWjBSXjCpKA	Le Cerisier	Cie Apsaras théâtre		lecerisier		7-11 rue Joseph Brunet 33300	contact@lecerisier.org	true	2023-01-06 16:08:29	accepted	false	false	fr	true	false	true	https://www.facebook.com/LeCerisierBacalan			395 191 935 000 26	954116301
+IBZqbaRhDX3Ub70RvZjKyw	Frédérique	Behar		frederiqueb			studio.lacasa19@gmail.com	true	2023-01-06 16:55:30	banned	false	false	fr	true	false	false					140407360
+F2FwYG9uNKzbm5JYpd-9IA	martine	Cirone	atelier Free'Son	martinec	621106695	20 rue du soleil levant 44170 treffieux France	sas.freeson@outlook.fr	true	2023-01-09 15:10:05	accepted	false	true	fr	true	false	true	@latelierfreeson			82916412800011	621106695
+uzjgwPHT5dbB6zwfwWJwcQ	Théâtre de l'Atelier	Théâtre de l'Atelier		theatredelateliert		1 Pl. Charles Dullin, 75018 Paris	evenement@theatre-atelier.com	true	2023-01-09 21:52:54	accepted	false	false	fr	true	false	false				414434159	01 53 41 85 60
+_h1wxSwUFCW8wjtr2vM-uQ	Emilie	Vannieuwenhuyse	Au Brana	emiliev	766444076	Au Brana, 32500 Pauilhac	production@obratheatre.co	true	2023-01-10 14:10:36	accepted	false	false	fr	true	false	true	OBRATheatreCo	cieOBRA		499.650.216.000.25	766444076
+_h1wxSwUFCW8wjtr2vM-uQ	Emilie	Vannieuwenhuyse	Au Brana	emiliev	766444076	Au Brana, 32500 Pauilhac	info@aubrana.com	false	2023-01-10 14:10:36	accepted	false	false	fr	true	false	true	OBRATheatreCo	cieOBRA		499.650.216.000.25	766444076
+xCqJnPyv_UtGcaWjNQnNdA	ZEPETRA	ZEPETRA	ZEPETRA	zepetra	486111125	153 rue Alphonse Beau de Rochas 34170 Catelnau-le-Lez	contact@zepetra.fr	true	2023-01-11 10:39:32	accepted	false	false	fr	true	false	true	https://www.facebook.com/Zepetra	https://www.instagram.com/zepetraecoledecirque/		48281304500051	486111125
+cAppqNcmZYZhLTxJpWTa-Q	Romain	Priot		romainp			romain.priot@multi-planning.com	true	2023-01-11 11:26:54	accepted	false	false	fr	false	false	false					33603735520
+5DRCM3zIjHR6TsE59RNa4w	Evgeniya Boucher	Club Bagatelle	Club Bagatelle	evgeniyab	648058012	95 RUE CHARLES LAFFITTE 92200 NEUILLY-SUR-SEINE	clubbagatelle@gmail.com	true	2023-01-13 14:48:40	accepted	false	true	fr	true	false	true				42850302300015	33648058012
+gt2Hw_FIQdSxMTlqn7Y9Mw	marie	fulconis	LA MAZANE	mariefulconisl	33635516729	9 Rue de Turbigo	lamazane.fulconis@gmail.com	true	2023-01-15 19:53:07	accepted	false	true	fr	true	false	true		la.mazane		838803054	635516729
+DaxX7cUnW5lvXSt0UgKpIw	Malena	Perrot		malenap			malenaperrot@gmail.com	true	2023-01-16 22:17:34	accepted	false	false	fr	false	false	false					685777921
+U6_SCQu8xfWfyeXQGgFBrg	Compagnie	Luciérnaga		compagniel			compagnie.luciernaga@gmail.com	true	2023-01-17 14:19:51	accepted	false	false	fr	false	false	false				84037019100024	677277855
+F4bKdu-yljkGRZo-Ubx_ew	Laetitia	Valstar		laetitiav			cie.lestroissinges@gmail.com	true	2023-01-21 09:54:54	accepted	false	true	fr	false	false	false				88096897900018	674596578
+DKFb8DsHj65GqKsF4QU0Kg	Maryline	ALLERON	Salle La Rochelaise	marylinea	770700358	39 rue de saintonge 17600 Nancras	marylineall@gmail.com	true	2023-01-23 10:38:23	accepted	false	true	fr	true	false	true	https://www.facebook.com/SalleLaRochelaise			0	770700358
+hAPSsPLXTKhtwd-DMEoVMg	Philippe	NICAUD		philippen			nicaudphilippe@gmail.com	true	2023-01-23 23:21:08	accepted	false	false	fr	false	false	false				791 337 421 00022	615919644
+OvtoVPYsERWOtngrakIoeQ	Mélanie	Dallois		melanied		8 Rue Chanoine Vautier, 14000 Caen	melanie@letympan.fr	true	2023-01-25 17:36:21	accepted	false	true	fr	true	false	false				438 557 993 00047	684699277
+s_bCDtke4SrcS6uLmne8Pw	fanny	auge	Studio 11	fannya	662090998	5 rue des thermes 11100 narbonne	augefanny@hotmail.fr	true	2023-01-25 18:02:45	accepted	false	true	fr	true	false	true	http://www.studio11narbonne.com/			79795169600021	662090998
+ctJ2kR_y0T2RVvoDKPIxbA	catherine	tardif		catherinet			octave.cat@wanadoo.fr	true	2023-01-26 17:08:49	accepted	false	true	fr	false	false	false				41362936100028	612267170
+v9x-lJFQcDK_szl1iNRIlg	DIAZ	Vanessa	Let's Dance Studio	vanessa	666040088	10 rue tournefort 75005 Paris	contact@studiodanseparis.fr	true	2023-01-27 10:53:50	accepted	false	false	fr	true	false	true				79219899600011	666040088
+-yFD29YGYLm8fit5QyAlFg	Philippe	GORRA		philippeg	632368311	HAM DE SAINT-LOUP 81700 PUYLAURENS	studiosaintloup@orange.fr	true	2023-01-28 19:59:01	accepted	false	true	fr	true	false	true	STUDIO SAINT LOUP CULTURE	STUDIO SAINT LOUP CULTURE		90334572600017	06 32 36 83 11
+AbD5yAuAdVJHqj0FubYYSg	Olivier	Hutteau		olivierh			olivierhutteau75020@gmail.com	true	2023-01-30 14:45:01	accepted	false	true	fr	false	false	false				50074987400011	672856045
+aAoYo89rAYxRFDFClBtenw	Michael	Vasyuk		michaelv			michael@colibrity.com	true	2023-01-30 18:26:02	accepted	false	true	fr	false	false	false				84275221400028	615890365
+oaq3aFsdZPegfTTWj-gKLA	Gaëlle	MERCIER	La Piscine Studio	gaellem	624484838	8 rue lepine 93500 pantin	event@lapiscine.studio	true	2023-01-31 08:31:59	accepted	false	true	fr	true	false	false				78876722600046	624484838
+K4tBjB-1Ec78d1JhAKI6eQ	atelier	Free'Son	atelier Free'Son	martinec1	33621106695	20 rue du soleil levant 44170 Treffieux france	martine.cirone@gmail.com	true	2023-02-02 13:05:39	accepted	false	false	fr	true	false	true				621106695	621106695
+MhOXo_dr2PsLJoXwqBQS7Q	Mohamed	Lagha		mohamedl			mohamed.lagha@gmail.com	true	2023-02-07 00:36:19	accepted	false	false	fr	false	false	false				80928154600014	627061158
+ZnDsNN2cFrvbpHTKYbAalQ	Joshua	Lawrence		joshual			compagnie.polyplumes@gmail.com	true	2023-02-07 10:03:10	accepted	false	true	fr	false	false	false				9095415600014	06 65 62 32 19
+zrcOA0jw1nsevLAIRZNojw	claudia	larcher		claudial			claudialarcher@outlook.fr	true	2023-02-08 13:05:12	accepted	false	false	fr	false	false	false				0	682690236
+Gthu8RzlJqy-Rv7sj8hIpQ	Jean noël	Palerme		jeannoelp			dojeunes@gmail.com	true	2023-02-08 13:38:37	accepted	false	true	fr	true	false	false				42076712100049	625276511
+tdS88dSmvsIokE6IBHZpTg	FARIDA	ENNAIM		faridae		1 bis Rue Georges Clemenceau, 28600 Luisant, France	ambreetjasmin@hotmail.fr	true	2023-02-10 11:50:58	accepted	false	true	fr	true	false	false				839663820000	661151256
+NMcQgC0Qs8EsMUmsRhHOrQ	Tristan	ROCHE		tristanr			tristan.roche69570@gmail.com	true	2023-02-10 17:21:08	pending_consent	false	false	fr	false	false	false					
+RyIAKyXl7TSlMXM_uqubJw	Antoine	Gaudin		antoineg			neoti56@gmail.com	true	2023-02-14 18:10:10	accepted	false	false	fr	false	false	false				514 222 702 00011	625341446
+0__GXSuljRJFrhYNYN1dRw	Leï	Talhaoui	Kif-Kif Bledi	leilat	782978437	12 Cité Popincourt 75011 Paris	prod@kifkifbledi.com	true	2023-02-14 18:12:05	accepted	false	false	fr	true	false	true		https://www.instagram.com/kifkifbledi		91866174500011	782978437
+7QALbkuk3KeOEAdmcNSH-A	Opsiopla	Opsiopla	Opsiopla	opsiopla	683391505	Courbevoie/Paris	opsiopla@gmail.com	true	2023-02-20 06:49:21	accepted	false	false	fr	false	false	false				839959285	683391505
+S3C3INMpPu-ghdl7FZOdhw	Marine	Saunier		marines			m.saunier@blgf.fr	true	2023-02-20 13:50:37	accepted	false	true	fr	true	false	false				34083638600011	153890912
